@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+# -*- coding:utf-8 -*
 import networkx as nx
 import matplotlib.pyplot as plt
 print 1
